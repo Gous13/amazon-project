@@ -1,6 +1,7 @@
 # Amazon Frontend Clone
 
-![Project Screenshot](image1)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e6ab5616-d641-42d3-842c-bd6e7e80f8f4" />
+
 
 This project is a frontend clone of the Amazon website, built using **HTML**, **CSS**. It is designed to showcase my frontend development skills and UI/UX capabilities by replicating the look and feel of Amazon's homepage and its core interactive features.
 
